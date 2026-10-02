@@ -60,7 +60,6 @@ A[7:0], B[7:0], Cin  ──►  [FA0]─►[FA1]─► ... ─►[FA7]  ──�
 ## Author
 
 **Sadat**
-GitHub: [@iamsadattt](https://github.com/iamsadattt)
 
 ## Acknowledgements
 
